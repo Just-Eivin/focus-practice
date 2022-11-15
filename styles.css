@@ -46,8 +46,8 @@ th {
 }
 
 .inner-circle {
-    width: 70px;
-    height: 70px;
+    width: 75px;
+    height: 75px;
     border-radius: 1000px;
     border: 3px dashed gray;
     background-color: white;
